@@ -5,3 +5,6 @@ COntribución local para git hub
 
 
 Commit desde gitHub
+
+
+git fetch
